@@ -1,0 +1,16 @@
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\coursettes.exe
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\coursettes.deps.json
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\coursettes.runtimeconfig.json
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\coursettes.runtimeconfig.dev.json
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\coursettes.dll
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\ref\coursettes.dll
+C:\Users\tina_\source\repos\coursettes\coursettes\bin\Debug\net5.0\coursettes.pdb
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.csproj.AssemblyReference.cache
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.AssemblyInfoInputs.cache
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.AssemblyInfo.cs
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.csproj.CoreCompileInputs.cache
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.dll
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\ref\coursettes.dll
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.pdb
+C:\Users\tina_\source\repos\coursettes\coursettes\obj\Debug\net5.0\coursettes.genruntimeconfig.cache
