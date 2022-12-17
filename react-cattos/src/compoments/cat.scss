@@ -1,0 +1,39 @@
+.cat-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+    margin-top: 40px;
+
+    &__image {
+        height: 500px;
+        width: 500px;
+        background: url('https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg');
+        background-position: center;
+        background-size: cover;
+        border: 10px solid black;
+    }
+
+    &__button-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 40px;
+    }
+
+    &__button {
+        height: 50px;
+        width: 150px;
+        font-size: 20px;
+        background-color: rgb(14, 14, 14);
+        border-radius: 10px;
+        border: none;
+        text-decoration: none;
+        color: white;
+        cursor: pointer;
+
+        &:hover {
+            background-color: rgb(84, 32, 45);
+            box-shadow: 10px rgb(14, 14, 14)
+        }
+    }
+}
